@@ -6,3 +6,9 @@ Ans: It gives a temporary location.
 
 How can you use the staging area to make sure you have one commit per logical change?
 Ans: Use it as temporary location, add each file when done.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Ans: When trying new things without disturbing old code.
+
+How do the diagrams help you visualize the branch structure?
+Ans: Easy to understand, find unreachable commits
