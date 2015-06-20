@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+Ans: When you initialize a repository a .git directory is created. You need to initialize to make it git repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Ans: It gives a temporary location.
