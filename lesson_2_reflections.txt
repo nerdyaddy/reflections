@@ -12,3 +12,6 @@ Ans: When trying new things without disturbing old code.
 
 How do the diagrams help you visualize the branch structure?
 Ans: Easy to understand, find unreachable commits
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Ans: It mergest the code automatically, visual representation
