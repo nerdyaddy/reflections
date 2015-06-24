@@ -13,3 +13,6 @@ Branches = Branch out to create a new feature or fix a bug.
 Fork whenever you want to work on somebody else's repositoryl.
 Clone when you want to work on a copy or copy a github repo to your local.
 Branches will be used to create a new feature or keep old code intact.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Ans: You can merge when you want and you can do it offline.
